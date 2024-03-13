@@ -1,0 +1,204 @@
+body {
+    margin: 0%;
+}
+
+#div1 {
+    /* border: 2px solid red; */
+    height: 900px;
+    background-image: url(./knife.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#head1 {
+    background-color: transparent;
+    position: fixed;
+    top: 0px;
+    bottom: 0px;
+    width: 100%;
+}
+
+#label1 {
+    position: relative;
+    bottom: 10px;
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+#logo {
+    margin-left: 80px;
+    margin-top: 25px;
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid white;
+}
+
+#list1 {
+    margin-left: 769px;
+    margin-top: -25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.links {
+    text-decoration: none;
+    padding: 15px;
+    font-size: 18px;
+}
+
+.links:link {
+    color: white;
+}
+
+.links:visited {
+    color: white;
+}
+
+#div2{
+    /* border: 2px solid red; */
+    margin-top: -650px;
+    text-align: center;
+}
+
+#h1 {
+    text-align: center;
+    /* margin-top: 200px; */
+    color: white;
+    font-size: 65px;
+    font-family: cursive;
+    font-weight: bolder;
+
+}
+
+#b1 {
+    background-color: rgb(224, 105, 105);
+    border-radius: 9px;
+    color: white;
+    border: 2px;
+    width: 200px;
+    padding: 13px;
+    font-size: 20px;
+    /* margin-left: 550px; */
+    font-family: sans-serif;
+}
+
+#label2 {
+    color: white;
+    font-size: 20px;
+    /* margin-left: 650px; */
+    /* font-size: 20px; */
+}
+
+#b2 {
+    border: 2px solid white;
+    padding: 0%;
+    border-radius: 7px;
+    background-color: black;
+    /* margin-left: 420px; */
+    margin-top: 20px;
+}
+
+#b3 {
+    border: 2px solid white;
+    padding: 0%;
+    border-radius: 7px;
+    background-color: black;
+    position: relative;
+    left: 50px;
+}
+
+#div3 {
+    margin-top: 170px;
+    /* border: 2px solid; */
+    text-align: center;
+    font-size: 60px;
+    color: red;
+}
+
+p {
+    color: #424242;
+}
+
+#div5 {
+    /* border: 2px solid ; */
+    background-image: url(https://knight-bite.com/res/index/banner-1.webp);
+    background-size: 100%;
+    height: 750px;
+    margin-top: -50px;
+    background-repeat: no-repeat;
+}
+
+#h2 {
+    text-align: center;
+    position: relative;
+    top: 400px;
+    color: white;
+    font-size: 80px;
+    font-family: cursive;
+    font-weight: bolder;
+}
+
+#div6 {
+    margin-top: -54px;
+    /* border: 2px solid; */
+    background-image: url(https://knight-bite.com/res/index/banner-2.webp);
+    background-size: 100%;
+    height: 750px;
+    background-repeat: no-repeat;
+
+}
+
+#h3 {
+    text-align: center;
+    position: relative;
+    top: 200px;
+    color: white;
+    font-size: 80px;
+    font-family: cursive;
+    font-weight: bolder;
+}
+
+#b4 {
+    border: 1px solid white;
+    width: 200px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: transparent;
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 500px;
+    top: 200px;
+
+}
+
+#h4{
+    text-align: center;
+    position: relative;
+    top: -100px;
+    color: black;
+    font-size: 60px;
+    font-family: sans-serif;
+    font-weight: bolder;
+
+}
+#img2{
+    margin-top: -100px;
+}
+#img3{
+    margin-top: -40px;
+}
+footer{
+    /* border: 2px solid black; */
+    height: 40px;
+    margin-top: -25px;
+    background: linear-gradient(90deg, #C77BF4 0%, #FF5672 100%);
+}
+h4{
+    text-align: center;
+    position: relative;
+    top:10px;
+    color: white;
+}

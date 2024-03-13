@@ -1,0 +1,91 @@
+body {
+    margin: 0%;
+}
+
+#div1 {
+    /* border: 2px solid red; */
+    height: 900px;
+    background-image: url(./banner.webp);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 1000px;
+    background-position-y:0px;
+}
+
+#head1 {
+    background-color: transparent;
+    position: fixed;
+    top: 0px;
+    bottom: 0px;
+    width: 100%;
+}
+
+#label1 {
+    position: relative;
+    bottom: 10px;
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+#logo {
+    margin-left: 80px;
+    margin-top: 25px;
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid white;
+}
+
+#list1 {
+    margin-left: 769px;
+    margin-top: -25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.links {
+    text-decoration: none;
+    padding: 15px;
+    font-size: 18px;
+}
+
+.links:link {
+    color: white;
+}
+
+.links:visited {
+    color: white;
+}
+#div2{
+    /* border: 2px solid red; */
+    margin-top: -900px;
+    text-align: left;
+}
+#h1{
+    /* border: 2px solid; */
+    /* margin-bottom: 100px; */
+    margin-left: 100px;
+    width: 600px;
+    color: white;
+    font-size: 40px;
+    font-family: cursive;
+    font-weight: bolder;
+    text-wrap: nowrap;
+    line-height: 50px;
+}
+
+.img1{
+    margin-top: -4px;
+}
+footer{
+    /* border: 2px solid black; */
+    height: 50px;
+    margin-top: -25px;
+    background: linear-gradient(90deg, #C77BF4 0%, #FF5672 100%);
+}
+h4{
+    text-align: center;
+    position: relative;
+    top:12px;
+    color: white;
+}
